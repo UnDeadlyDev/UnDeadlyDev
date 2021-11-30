@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=undeadlydev&color=blueviolet)
 
 # BIO
-<p align="center">CEO at <a href="https://dsc.gg/UnDeadlyDev">UnDeadlyDev's Support</a>, Manager at <a href="https://invite.gg/cfqil">ConnectionFail</a>
+<p align="center">CEO at <a href="https://dsc.gg/UnDeadlyDev">UnDeadlyDev's Support</a>, Manager at <a href="https://invite.gg/cfail">Connection Fail</a>
 
 <p align="center">Contact me on Discord: <b>UnDeadlyDev#9262</b></p>
 
