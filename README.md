@@ -6,8 +6,11 @@
 
 <p align="center">Contact me on Discord: <b>UnDeadlyDev#9262</b></p>
 
-<p><strong>Experience:</strong></p>
+<a href="https://github.com/UnDeadlyDev">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=undeadlydev&show_icons=true&include_all_commits=false&theme=radical&count_private=true" alt="UnDeadlyDev's github stats" />
+</a>
 
+<p><strong>Experience:</strong></p>
 <ul>
   <li>Ex Founder @ <a href="https://hivetowncraft.cf"></a>HiveTownCraft</li>
   <li>Founder @ <a href="https://valtymc.cf"></a>ValtyMC</li>
