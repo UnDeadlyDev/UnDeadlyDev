@@ -12,8 +12,8 @@
 
 <p><strong>Experience:</strong></p>
 <ul>
-  <li>Ex Founder @ <a href="https://hivetowncraft.cf"></a>HiveTownCraft</li>
-  <li>Founder @ <a href="https://valtymc.cf"></a>ValtyMC</li>
-  <li>Founder @ <a href="https://linepvp.cf"></a>LinePVP</li>
+  <li>Ex Founder @ <a href="https://hivetowncraft.cf"></a>HiveTownCraft (Dead) </li>
+  <li>Founder @ <a href="https://valtymc.cf"></a>ValtyMC (Dead) </li>
+  <li>Founder @ <a href="https://linepvp.cf"></a>LinePVP (Dead) </li>
   <li>Developer and a founder @ <a href="https://dsc.gg/UnDeadlyDev">UnDeadlyDev's Support</a></li>
 </ul>
