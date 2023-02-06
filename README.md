@@ -21,7 +21,7 @@
 <details>
   <summary>Spoiler Sexy</summary>
   
-  Spoiler text `<details>` GG `<details>` afterward.
+  Spoiler text
   
   ```javascript
   console.log("HACKED BY TUNALGASQUAD!");
