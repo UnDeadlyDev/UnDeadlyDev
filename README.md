@@ -16,6 +16,29 @@
   <li>Developer and a founder @ <a href="https://dsc.gg/UnDeadlyDev">UnDeadlyDev's Support</a></li>
 </ul>
 
-<spoiler>
-Hola 123
-</spoiler>
+
+<head> 
+
+<head> 
+
+    <title> 
+
+         “spoiler” text in github wiki pages 
+
+    </title> 
+
+</head> 
+
+<body> 
+
+    <details> 
+
+        <summary>GeeksforGeeks</summary> 
+
+         A Computer Science Portal for Geeks 
+
+    </details>         
+
+</body> 
+
+</html> 
