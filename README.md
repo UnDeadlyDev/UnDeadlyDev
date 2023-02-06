@@ -15,3 +15,7 @@
   <li>Founder @ <a href="https://foro.bloodymc.net"></a>BloodyMC (In Dev) </li>
   <li>Developer and a founder @ <a href="https://dsc.gg/UnDeadlyDev">UnDeadlyDev's Support</a></li>
 </ul>
+
+<spoiler>
+Hola 123
+</spoiler>
