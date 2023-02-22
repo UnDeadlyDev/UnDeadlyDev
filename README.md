@@ -1,6 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=87789394)
 ![](https://komarev.com/ghpvc/?username=undeadlydev&color=ff69b4)
-[![Discord](https://img.shields.io/discord/489135856284729384.svg?label=Discord&logo=discord&logoColor=fff)](https://discord.gg/gBvk9dDHxh)
+[![Discord](https://img.shields.io/discord/988220096122077204.svg?label=Discord&logo=discord&logoColor=fff)](https://discord.gg/gBvk9dDHxh)
 
 # BIO
 <p align="center">CEO at <a href="https://dsc.gg/UnDeadlyDev">UnDeadlyDev's Support</a>
