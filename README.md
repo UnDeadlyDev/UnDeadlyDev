@@ -1,5 +1,5 @@
 ![](https://hit.yhype.me/github/profile?user_id=87789394)
-![](https://github-readme-streak-stats.herokuapp.com/?user=undeadlydev&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=undeadlydev&theme=synthwave&hide_border=false)<br/>
 
 ![](https://komarev.com/ghpvc/?username=undeadlydev&color=ff69b4)
 [![Discord](https://img.shields.io/discord/988220096122077204.svg?label=Discord&logo=discord&logoColor=fff)](https://discord.gg/gBvk9dDHxh)
