@@ -1,5 +1,4 @@
 ![](https://hit.yhype.me/github/profile?user_id=87789394)
-![](https://github-readme-streak-stats.herokuapp.com/?user=undeadlydev&theme=synthwave&hide_border=false)<br/>
 
 ![](https://komarev.com/ghpvc/?username=undeadlydev&color=ff69b4)
 [![Discord](https://img.shields.io/discord/988220096122077204.svg?label=Discord&logo=discord&logoColor=fff)](https://discord.gg/gBvk9dDHxh)
@@ -12,6 +11,8 @@
 <a href="https://github.com/UnDeadlyDev">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=undeadlydev&show_icons=true&include_all_commits=false&theme=synthwave&count_private=true" alt="UnDeadlyDev's github stats" />
 </a>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=undeadlydev&theme=synthwave&hide_border=false)<br/>
 
 <p><strong>Experience:</strong></p>
 <ul>
