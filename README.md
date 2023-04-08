@@ -1,6 +1,4 @@
-![](https://hit.yhype.me/github/profile?user_id=87789394)
-
-![](https://komarev.com/ghpvc/?username=undeadlydev&color=ff69b4)
+[![Email Me](https://img.shields.io/badge/Email-undeadlydev@gmail.com-007735.svg)](mailto:undeadlydev@gmail.com)
 [![Discord](https://img.shields.io/discord/988220096122077204.svg?label=Discord&logo=discord&logoColor=fff)](https://discord.gg/gBvk9dDHxh)
 
 # BIO
@@ -24,3 +22,7 @@
 <ul>
   <li>Founder @ <a href="https://foro.bloodymc.net"></a>BloodyMC (In Dev) </li>
 </ul>
+
+
+![](https://hit.yhype.me/github/profile?username=undeadlydev)
+![](https://komarev.com/ghpvc/?username=undeadlydev&color=ff69b4)
