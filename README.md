@@ -12,7 +12,13 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=undeadlydev&show_icons=true&include_all_commits=false&theme=synthwave&count_private=true" alt="UnDeadlyDev's github stats" />
 </a>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=undeadlydev&theme=synthwave&hide_border=false)<br/>
+<a href="https://github.com/UnDeadlyDev">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=undeadlydev&theme=synthwave&hide_border=false" />
+</a>
+
+<a href="https://github.com/UnDeadlyDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undeadlydev&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</a>
 
 <p><strong>Experience:</strong></p>
 <ul>
