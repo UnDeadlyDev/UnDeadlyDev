@@ -25,4 +25,4 @@
   <li>Founder @ <a href="https://foro.bloodymc.net"></a>BloodyMC (In Dev) </li>
 </ul>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/undeadlydev/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/UnDeadlyDev/github-readme-quotes)
