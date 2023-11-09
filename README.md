@@ -23,6 +23,11 @@
   <li>Founder @ <a href="https://foro.bloodymc.net"></a>BloodyMC (In Dev) </li>
 </ul>
 
+<p align="center">
+  <a href="https://discord.com/users/387348609076822048" target="_blank" rel="nofollow">
+    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/387348609076822048?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
+  </a>
+</p>
 
 ![](https://hit.yhype.me/github/profile?username=undeadlydev)
 ![](https://komarev.com/ghpvc/?username=undeadlydev&color=ff69b4)
