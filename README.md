@@ -1,5 +1,5 @@
 [![Email Me](https://img.shields.io/badge/Email-undeadlydev@gmail.com-007735.svg)](mailto:undeadlydev@gmail.com)
-[![Discord](https://img.shields.io/discord/489529070913060867.svg?label=Discord&logo=discord&logoColor=fff)](https://discord.gg/hypixel)
+[![Discord](https://img.shields.io/discord/1174095799374860288.svg?label=Discord&logo=discord&logoColor=fff)](https://discord.com/invite/Yqgbbr8yTD)
 
 # BIO
 <p align="center">CEO at <a href="https://dsc.gg/UnDeadlyDev">UnDeadlyDev's Support</a>
