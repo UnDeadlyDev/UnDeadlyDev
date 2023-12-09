@@ -2,7 +2,7 @@
 [![Discord](https://img.shields.io/discord/1174095799374860288.svg?label=Discord&logo=discord&logoColor=fff)](https://discord.com/invite/Yqgbbr8yTD)
 
 # BIO
-<p align="center">CEO at <a href="https://dsc.gg/UnDeadlyDev">UnDeadlyDev's Support</a>
+<p align="center">CEO at <a href="https://discord.com/invite/Yqgbbr8yTD">UnDeadlyDev's Support</a>
 
 <p align="center">Contact me on Discord: <b>UnDeadlyDev#9262</b></p>
 
