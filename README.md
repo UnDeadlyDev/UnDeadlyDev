@@ -2,9 +2,9 @@
 [![Discord](https://img.shields.io/discord/1174095799374860288.svg?label=Discord&logo=discord&logoColor=fff)](https://discord.com/invite/Yqgbbr8yTD)
 
 # BIO
-<p align="center">CEO at <a href="https://discord.com/invite/Yqgbbr8yTD">UnDeadlyDev's Support</a>
+<p align="center">CEO at <a href="https://discord.com/invite/Yqgbbr8yTD">UnDeadlyDev's Helper Group</a>
 
-<p align="center">Contact me on Discord: <b>UnDeadlyDev#9262</b></p>
+<p align="center">Contact me on Discord: <b>UnDeadlyDev</b></p>
 
 <a href="https://github.com/UnDeadlyDev">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=undeadlydev&show_icons=true&include_all_commits=false&theme=synthwave&count_private=true" alt="UnDeadlyDev's github stats" />
