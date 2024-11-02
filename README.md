@@ -20,7 +20,7 @@
 
 <p><strong>Experience:</strong></p>
 <ul>
-  <li>Founder @ <a href="https://shop.punchpvp.net"></a>PunchPVP.net (is open) </li>
+  <li>Founder @ <a href="https://hypixel.net"></a>(NULL) </li>
 </ul>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/387348609076822048)](https://discord.com/users/387348609076822048)
