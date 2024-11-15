@@ -23,7 +23,7 @@
   <li>Founder @ <a href="https://hypixel.net"></a>(NULL) </li>
 </ul>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/387348609076822048)](https://discord.com/users/387348609076822048)
+[![Discord Presence](https://lanyard.cnrad.dev/api/476953832866447370)](https://discord.com/users/476953832866447370)
 
 ![](https://hit.yhype.me/github/profile?username=undeadlydev)
 ![](https://komarev.com/ghpvc/?username=undeadlydev&color=ff69b4)
