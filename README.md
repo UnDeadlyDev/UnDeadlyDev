@@ -20,7 +20,7 @@
 
 <p><strong>Experience:</strong></p>
 <ul>
-  <li>Founder @ <a href="https://store.punchpvp.com"></a>(punchpvp.com) </li>
+  Founder & Creator @ <a href="https://store.punchpvp.com"></a>(punchpvp.com) </li>
 </ul>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/476953832866447370)](https://discord.com/users/476953832866447370)
