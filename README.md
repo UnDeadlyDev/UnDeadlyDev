@@ -25,10 +25,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=PunchPVP+Developer+%7C+Artist;Open+for+Commissions" alt="Typing SVG" />,,
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=PunchPVP+Developer+%7C+Artist;Open+for+Commissions" alt="Typing SVG" />
 
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6366F1?style=for-the-badge)](https://www.github.com/undeadlydev)
+[![Portfolio](https://img.shields.io/badge/🌐_Profile-6366F1?style=for-the-badge)](https://www.github.com/undeadlydev)
 [![GitHub followers](https://img.shields.io/github/followers/undeadlydev?style=for-the-badge&logo=github&color=181717)](https://github.com/undeadlydev)
 
 </div>
