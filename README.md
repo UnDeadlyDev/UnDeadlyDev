@@ -20,12 +20,12 @@
 
 <p><strong>Experience:</strong></p>
 <ul>
-  Developer @ <a href="https://kuveru.com"></a>(kuveru.com) </li>
+  Ceo & Developer @ <a href="https://tienda.ravenwood.com"></a>(RavenWood Network) </li>
 </ul>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Kuveru+Developer+%7C+Artist;Open+for+Commissions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=RavenWood+CEO+%7C+Developer;Open+for+Commissions" alt="Typing SVG" />
 
 
 [![Portfolio](https://img.shields.io/badge/🌐_Profile-6366F1?style=for-the-badge)](https://www.github.com/undeadlydev)
