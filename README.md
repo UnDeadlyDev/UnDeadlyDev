@@ -36,7 +36,7 @@
 ---
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/476953832866447370)](https://discord.com/users/1419396973827719208)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1419396973827719208?bg=4F215F&showDisplayName=true)](https://discord.com/users/1419396973827719208)
 
 ![](https://hit.yhype.me/github/profile?username=undeadlydev)
 ![](https://komarev.com/ghpvc/?username=undeadlydev&color=ff69b4)
